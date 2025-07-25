@@ -1,0 +1,510 @@
+[17-Jun-2025 00:02:29 UTC] PHP Warning:  Undefined variable $mysqli in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/procesar_login.php on line 14
+[17-Jun-2025 00:02:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/procesar_login.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/procesar_login.php on line 14
+[17-Jun-2025 00:02:37 UTC] PHP Warning:  Undefined variable $mysqli in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/procesar_login.php on line 14
+[17-Jun-2025 00:02:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/procesar_login.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/procesar_login.php on line 14
+[17-Jun-2025 00:03:24 UTC] PHP Warning:  Undefined variable $mysqli in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/procesar_login.php on line 14
+[17-Jun-2025 00:03:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/procesar_login.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/procesar_login.php on line 14
+[17-Jun-2025 00:06:07 UTC] PHP Warning:  Undefined variable $mysqli in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/procesar_login.php on line 14
+[17-Jun-2025 00:06:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/procesar_login.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/procesar_login.php on line 14
+[17-Jun-2025 00:27:39 UTC] PHP Warning:  require_once(components/course_card.php): Failed to open stream: No such file or directory in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/dashboard.php on line 6
+[17-Jun-2025 00:27:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'components/course_card.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/dashboard.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/dashboard.php on line 6
+[17-Jun-2025 00:27:48 UTC] PHP Warning:  require_once(components/course_card.php): Failed to open stream: No such file or directory in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/dashboard.php on line 6
+[17-Jun-2025 00:27:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'components/course_card.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/dashboard.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/dashboard.php on line 6
+[17-Jun-2025 00:28:47 UTC] PHP Warning:  require_once(components/course_card.php): Failed to open stream: No such file or directory in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/dashboard.php on line 6
+[17-Jun-2025 00:28:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'components/course_card.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/dashboard.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/dashboard.php on line 6
+[17-Jun-2025 00:28:50 UTC] PHP Warning:  require_once(components/course_card.php): Failed to open stream: No such file or directory in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/dashboard.php on line 6
+[17-Jun-2025 00:28:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'components/course_card.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/dashboard.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/dashboard.php on line 6
+[17-Jun-2025 00:30:40 UTC] PHP Warning:  require_once(components/course_card.php): Failed to open stream: No such file or directory in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/dashboard.php on line 6
+[17-Jun-2025 00:30:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'components/course_card.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/dashboard.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/dashboard.php on line 6
+[17-Jun-2025 00:31:43 UTC] PHP Warning:  require_once(components/course_card.php): Failed to open stream: No such file or directory in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/dashboard.php on line 6
+[17-Jun-2025 00:31:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'components/course_card.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/dashboard.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/dashboard.php on line 6
+[17-Jun-2025 00:32:02 UTC] PHP Warning:  require_once(components/course_card.php): Failed to open stream: No such file or directory in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/dashboard.php on line 6
+[17-Jun-2025 00:32:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'components/course_card.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/dashboard.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/dashboard.php on line 6
+[17-Jun-2025 00:36:27 UTC] PHP Warning:  require_once(includes/db.php): Failed to open stream: No such file or directory in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/dashboard.php on line 3
+[17-Jun-2025 00:36:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/dashboard.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/dashboard.php on line 3
+[17-Jun-2025 00:36:32 UTC] PHP Warning:  require_once(includes/db.php): Failed to open stream: No such file or directory in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/dashboard.php on line 3
+[17-Jun-2025 00:36:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/dashboard.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/dashboard.php on line 3
+[17-Jun-2025 00:37:27 UTC] PHP Warning:  require_once(includes/db.php): Failed to open stream: No such file or directory in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/dashboard.php on line 3
+[17-Jun-2025 00:37:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/dashboard.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/dashboard.php on line 3
+[17-Jun-2025 00:37:30 UTC] PHP Warning:  require_once(includes/db.php): Failed to open stream: No such file or directory in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/dashboard.php on line 3
+[17-Jun-2025 00:37:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/dashboard.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/dashboard.php on line 3
+[17-Jun-2025 00:37:48 UTC] PHP Warning:  require_once(includes/db.php): Failed to open stream: No such file or directory in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/dashboard.php on line 3
+[17-Jun-2025 00:37:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/dashboard.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/dashboard.php on line 3
+[17-Jun-2025 00:40:51 UTC] PHP Warning:  require_once(includes/db.php): Failed to open stream: No such file or directory in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/dashboard.php on line 7
+[17-Jun-2025 00:40:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/dashboard.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sanignaciodeloyo/public_html/aulavirtual/Aula2/dashboard.php on line 7
+[24-Jun-2025 01:02:17 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 2
+[24-Jun-2025 01:02:17 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[24-Jun-2025 01:02:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[24-Jun-2025 01:02:17 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[24-Jun-2025 01:02:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[24-Jun-2025 01:02:17 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[24-Jun-2025 01:02:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[24-Jun-2025 01:02:17 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[24-Jun-2025 01:02:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[26-Jun-2025 17:26:12 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 2
+[26-Jun-2025 17:26:12 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[26-Jun-2025 17:26:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[26-Jun-2025 17:26:12 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[26-Jun-2025 17:26:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[26-Jun-2025 17:26:12 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[26-Jun-2025 17:26:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[26-Jun-2025 17:26:12 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[26-Jun-2025 17:26:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[26-Jun-2025 17:30:00 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 2
+[26-Jun-2025 17:30:00 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[26-Jun-2025 17:30:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[26-Jun-2025 17:30:00 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[26-Jun-2025 17:30:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[26-Jun-2025 17:30:00 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[26-Jun-2025 17:30:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[26-Jun-2025 17:30:00 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[26-Jun-2025 17:30:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[26-Jun-2025 17:30:49 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 2
+[26-Jun-2025 17:30:49 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[26-Jun-2025 17:30:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[26-Jun-2025 17:30:49 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[26-Jun-2025 17:30:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[26-Jun-2025 17:30:49 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[26-Jun-2025 17:30:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[26-Jun-2025 17:30:49 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[26-Jun-2025 17:30:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[26-Jun-2025 17:34:46 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 2
+[26-Jun-2025 17:34:46 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[26-Jun-2025 17:34:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[26-Jun-2025 17:34:46 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[26-Jun-2025 17:34:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[26-Jun-2025 17:34:46 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[26-Jun-2025 17:34:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[26-Jun-2025 17:34:46 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[26-Jun-2025 17:34:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[26-Jun-2025 17:36:09 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 2
+[26-Jun-2025 17:36:09 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[26-Jun-2025 17:36:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[26-Jun-2025 17:36:09 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[26-Jun-2025 17:36:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[26-Jun-2025 17:36:09 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[26-Jun-2025 17:36:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[26-Jun-2025 17:36:09 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[26-Jun-2025 17:36:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[26-Jun-2025 17:37:18 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 2
+[26-Jun-2025 17:37:18 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[26-Jun-2025 17:37:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[26-Jun-2025 17:37:18 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[26-Jun-2025 17:37:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[26-Jun-2025 17:37:18 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[26-Jun-2025 17:37:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[26-Jun-2025 17:37:18 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[26-Jun-2025 17:37:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[26-Jun-2025 17:37:31 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 2
+[26-Jun-2025 17:37:31 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[26-Jun-2025 17:37:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[26-Jun-2025 17:37:31 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[26-Jun-2025 17:37:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[26-Jun-2025 17:37:31 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[26-Jun-2025 17:37:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[26-Jun-2025 17:37:31 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[26-Jun-2025 17:37:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[26-Jun-2025 17:40:19 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 2
+[26-Jun-2025 17:40:19 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[26-Jun-2025 17:40:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[26-Jun-2025 17:40:19 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[26-Jun-2025 17:40:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[26-Jun-2025 17:40:19 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[26-Jun-2025 17:40:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[26-Jun-2025 17:40:19 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[26-Jun-2025 17:40:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[26-Jun-2025 17:43:17 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 2
+[26-Jun-2025 17:43:17 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[26-Jun-2025 17:43:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[26-Jun-2025 17:43:17 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[26-Jun-2025 17:43:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[26-Jun-2025 17:43:17 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[26-Jun-2025 17:43:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[26-Jun-2025 17:43:17 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[26-Jun-2025 17:43:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[26-Jun-2025 17:47:02 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 2
+[26-Jun-2025 17:47:02 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[26-Jun-2025 17:47:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[26-Jun-2025 17:47:02 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[26-Jun-2025 17:47:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[26-Jun-2025 17:47:02 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[26-Jun-2025 17:47:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[26-Jun-2025 17:47:02 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[26-Jun-2025 17:47:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[27-Jun-2025 03:53:52 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 2
+[27-Jun-2025 03:53:52 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[27-Jun-2025 03:53:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[27-Jun-2025 03:53:52 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[27-Jun-2025 03:53:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[27-Jun-2025 03:53:52 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[27-Jun-2025 03:53:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[27-Jun-2025 03:53:52 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[27-Jun-2025 03:53:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[27-Jun-2025 04:16:07 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 2
+[27-Jun-2025 04:16:07 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[27-Jun-2025 04:16:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[27-Jun-2025 04:16:07 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[27-Jun-2025 04:16:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[27-Jun-2025 04:16:07 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[27-Jun-2025 04:16:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[27-Jun-2025 04:16:07 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[27-Jun-2025 04:16:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[27-Jun-2025 21:08:46 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 2
+[27-Jun-2025 21:08:46 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[27-Jun-2025 21:08:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[27-Jun-2025 21:08:46 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[27-Jun-2025 21:08:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[27-Jun-2025 21:08:46 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[27-Jun-2025 21:08:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[27-Jun-2025 21:08:46 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[27-Jun-2025 21:08:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[27-Jun-2025 21:18:54 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 2
+[27-Jun-2025 21:18:54 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[27-Jun-2025 21:18:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[27-Jun-2025 21:18:54 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[27-Jun-2025 21:18:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[27-Jun-2025 21:18:54 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[27-Jun-2025 21:18:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[27-Jun-2025 21:18:54 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[27-Jun-2025 21:18:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[27-Jun-2025 21:20:29 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 2
+[27-Jun-2025 21:20:29 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[27-Jun-2025 21:20:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[27-Jun-2025 21:20:29 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[27-Jun-2025 21:20:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[27-Jun-2025 21:20:29 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[27-Jun-2025 21:20:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[27-Jun-2025 21:20:29 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[27-Jun-2025 21:20:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[27-Jun-2025 21:22:26 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 2
+[27-Jun-2025 21:22:26 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[27-Jun-2025 21:22:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[27-Jun-2025 21:22:26 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[27-Jun-2025 21:22:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[27-Jun-2025 21:22:26 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[27-Jun-2025 21:22:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[27-Jun-2025 21:22:26 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[27-Jun-2025 21:22:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[27-Jun-2025 21:22:32 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[27-Jun-2025 21:22:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[27-Jun-2025 21:22:32 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[27-Jun-2025 21:22:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[27-Jun-2025 21:22:32 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[27-Jun-2025 21:22:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[27-Jun-2025 21:22:32 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[27-Jun-2025 21:22:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[27-Jun-2025 21:23:37 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[27-Jun-2025 21:23:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[27-Jun-2025 21:23:37 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[27-Jun-2025 21:23:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[27-Jun-2025 21:23:37 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[27-Jun-2025 21:23:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[27-Jun-2025 21:23:37 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[27-Jun-2025 21:23:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[27-Jun-2025 21:35:44 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 2
+[27-Jun-2025 21:35:44 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[27-Jun-2025 21:35:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[27-Jun-2025 21:35:44 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[27-Jun-2025 21:35:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[27-Jun-2025 21:35:44 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[27-Jun-2025 21:35:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[27-Jun-2025 21:35:44 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[27-Jun-2025 21:35:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[27-Jun-2025 21:38:51 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 2
+[27-Jun-2025 21:38:51 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[27-Jun-2025 21:38:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[27-Jun-2025 21:38:51 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[27-Jun-2025 21:38:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[27-Jun-2025 21:38:51 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[27-Jun-2025 21:38:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[27-Jun-2025 21:38:51 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[27-Jun-2025 21:38:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[27-Jun-2025 21:43:26 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 2
+[27-Jun-2025 21:43:26 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[27-Jun-2025 21:43:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[27-Jun-2025 21:43:26 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[27-Jun-2025 21:43:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[27-Jun-2025 21:43:26 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[27-Jun-2025 21:43:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[27-Jun-2025 21:43:26 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[27-Jun-2025 21:43:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[28-Jun-2025 14:53:42 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 2
+[28-Jun-2025 14:53:42 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[28-Jun-2025 14:53:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[28-Jun-2025 14:53:42 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[28-Jun-2025 14:53:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[28-Jun-2025 14:53:42 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[28-Jun-2025 14:53:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[28-Jun-2025 14:53:42 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[28-Jun-2025 14:53:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[29-Jun-2025 00:17:38 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 2
+[29-Jun-2025 00:17:38 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[29-Jun-2025 00:17:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[29-Jun-2025 00:17:38 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[29-Jun-2025 00:17:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[29-Jun-2025 00:17:38 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[29-Jun-2025 00:17:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[29-Jun-2025 00:17:38 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[29-Jun-2025 00:17:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[29-Jun-2025 00:17:59 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 2
+[29-Jun-2025 00:17:59 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[29-Jun-2025 00:17:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[29-Jun-2025 00:17:59 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[29-Jun-2025 00:17:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[29-Jun-2025 00:17:59 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[29-Jun-2025 00:17:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[29-Jun-2025 00:17:59 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[29-Jun-2025 00:17:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[29-Jun-2025 00:22:37 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 2
+[29-Jun-2025 00:22:37 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[29-Jun-2025 00:22:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[29-Jun-2025 00:22:37 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[29-Jun-2025 00:22:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[29-Jun-2025 00:22:37 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[29-Jun-2025 00:22:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[29-Jun-2025 00:22:37 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[29-Jun-2025 00:22:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[29-Jun-2025 00:25:04 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 2
+[29-Jun-2025 00:25:04 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[29-Jun-2025 00:25:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[29-Jun-2025 00:25:04 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[29-Jun-2025 00:25:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[29-Jun-2025 00:25:04 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[29-Jun-2025 00:25:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[29-Jun-2025 00:25:04 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[29-Jun-2025 00:25:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[29-Jun-2025 00:25:10 UTC] PHP Warning:  require_once(../includes/auth.php): Failed to open stream: No such file or directory in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/agregar-usuario-curso.php on line 2
+[29-Jun-2025 00:25:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../includes/auth.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/agregar-usuario-curso.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/agregar-usuario-curso.php on line 2
+[29-Jun-2025 00:25:47 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 2
+[29-Jun-2025 00:25:47 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[29-Jun-2025 00:25:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[29-Jun-2025 00:25:47 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[29-Jun-2025 00:25:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[29-Jun-2025 00:25:47 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[29-Jun-2025 00:25:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[29-Jun-2025 00:25:47 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[29-Jun-2025 00:25:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[29-Jun-2025 00:28:59 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 2
+[29-Jun-2025 00:28:59 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[29-Jun-2025 00:28:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[29-Jun-2025 00:28:59 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[29-Jun-2025 00:28:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[29-Jun-2025 00:28:59 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[29-Jun-2025 00:28:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[29-Jun-2025 00:28:59 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[29-Jun-2025 00:28:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[29-Jun-2025 00:28:59 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/dashboard.php on line 8
+[29-Jun-2025 00:33:07 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 2
+[29-Jun-2025 00:33:07 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[29-Jun-2025 00:33:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[29-Jun-2025 00:33:07 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[29-Jun-2025 00:33:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[29-Jun-2025 00:33:07 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[29-Jun-2025 00:33:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[29-Jun-2025 00:33:07 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[29-Jun-2025 00:33:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[29-Jun-2025 00:33:07 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/dashboard.php on line 8
+[29-Jun-2025 00:33:30 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 2
+[29-Jun-2025 00:33:30 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[29-Jun-2025 00:33:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[29-Jun-2025 00:33:30 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[29-Jun-2025 00:33:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[29-Jun-2025 00:33:30 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[29-Jun-2025 00:33:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[29-Jun-2025 00:33:30 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[29-Jun-2025 00:33:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[29-Jun-2025 00:33:30 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/dashboard.php on line 8
+[29-Jun-2025 00:38:57 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 2
+[29-Jun-2025 00:38:57 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[29-Jun-2025 00:38:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[29-Jun-2025 00:38:57 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[29-Jun-2025 00:38:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[29-Jun-2025 00:38:57 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[29-Jun-2025 00:38:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[29-Jun-2025 00:38:57 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[29-Jun-2025 00:38:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[29-Jun-2025 00:38:57 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/dashboard.php on line 8
+[29-Jun-2025 00:39:53 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 2
+[29-Jun-2025 00:39:53 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[29-Jun-2025 00:39:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[29-Jun-2025 00:39:53 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[29-Jun-2025 00:39:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[29-Jun-2025 00:39:53 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[29-Jun-2025 00:39:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[29-Jun-2025 00:39:53 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[29-Jun-2025 00:39:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[29-Jun-2025 00:39:53 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/dashboard.php on line 8
+[29-Jun-2025 00:43:43 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 2
+[29-Jun-2025 00:43:43 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[29-Jun-2025 00:43:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[29-Jun-2025 00:43:43 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[29-Jun-2025 00:43:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[29-Jun-2025 00:43:43 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[29-Jun-2025 00:43:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[29-Jun-2025 00:43:43 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[29-Jun-2025 00:43:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[29-Jun-2025 00:43:43 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/dashboard.php on line 8
+[29-Jun-2025 00:45:30 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 2
+[29-Jun-2025 00:45:30 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[29-Jun-2025 00:45:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[29-Jun-2025 00:45:30 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[29-Jun-2025 00:45:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[29-Jun-2025 00:45:30 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[29-Jun-2025 00:45:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[29-Jun-2025 00:45:30 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[29-Jun-2025 00:45:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[29-Jun-2025 00:45:30 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/dashboard.php on line 8
+[29-Jun-2025 00:50:00 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 2
+[29-Jun-2025 00:50:00 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[29-Jun-2025 00:50:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[29-Jun-2025 00:50:00 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[29-Jun-2025 00:50:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[29-Jun-2025 00:50:00 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[29-Jun-2025 00:50:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[29-Jun-2025 00:50:00 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[29-Jun-2025 00:50:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[29-Jun-2025 00:50:00 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/dashboard.php on line 8
+[29-Jun-2025 00:51:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sanignaciodeloyo/public_html/aulavirtual/administracion/procesar_login.php:4) in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/procesar_login.php on line 53
+[29-Jun-2025 00:52:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sanignaciodeloyo/public_html/aulavirtual/administracion/login.php:3) in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/login.php on line 4
+[29-Jun-2025 01:00:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 2
+[29-Jun-2025 01:00:28 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[29-Jun-2025 01:00:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[29-Jun-2025 01:00:28 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[29-Jun-2025 01:00:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[29-Jun-2025 01:00:28 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[29-Jun-2025 01:00:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[29-Jun-2025 01:00:28 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[29-Jun-2025 01:00:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[29-Jun-2025 01:00:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/dashboard.php on line 9
+[01-Jul-2025 03:25:22 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 2
+[01-Jul-2025 03:25:22 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[01-Jul-2025 03:25:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[01-Jul-2025 03:25:22 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[01-Jul-2025 03:25:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[01-Jul-2025 03:25:22 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[01-Jul-2025 03:25:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[01-Jul-2025 03:25:22 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[01-Jul-2025 03:25:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[01-Jul-2025 03:25:22 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/dashboard.php on line 9
+[01-Jul-2025 03:25:31 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 2
+[01-Jul-2025 03:25:31 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[01-Jul-2025 03:25:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[01-Jul-2025 03:25:31 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[01-Jul-2025 03:25:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[01-Jul-2025 03:25:31 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[01-Jul-2025 03:25:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[01-Jul-2025 03:25:31 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[01-Jul-2025 03:25:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[01-Jul-2025 03:25:31 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/dashboard.php on line 9
+[05-Jul-2025 00:15:04 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 2
+[05-Jul-2025 00:15:04 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[05-Jul-2025 00:15:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[05-Jul-2025 00:15:04 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[05-Jul-2025 00:15:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[05-Jul-2025 00:15:04 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[05-Jul-2025 00:15:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[05-Jul-2025 00:15:04 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[05-Jul-2025 00:15:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[05-Jul-2025 00:15:04 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/dashboard.php on line 9
+[05-Jul-2025 00:15:26 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 2
+[05-Jul-2025 00:15:26 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[05-Jul-2025 00:15:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 4
+[05-Jul-2025 00:15:26 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[05-Jul-2025 00:15:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 5
+[05-Jul-2025 00:15:26 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[05-Jul-2025 00:15:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 6
+[05-Jul-2025 00:15:26 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[05-Jul-2025 00:15:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/includes/navbar.php on line 7
+[05-Jul-2025 00:15:26 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/aulavirtual/administracion/dashboard.php on line 9
+[05-Jul-2025 00:26:20 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/administracion/includes/navbar.php on line 2
+[05-Jul-2025 00:26:20 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/administracion/includes/navbar.php on line 4
+[05-Jul-2025 00:26:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/administracion/includes/navbar.php on line 4
+[05-Jul-2025 00:26:20 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/administracion/includes/navbar.php on line 5
+[05-Jul-2025 00:26:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/administracion/includes/navbar.php on line 5
+[05-Jul-2025 00:26:20 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/administracion/includes/navbar.php on line 6
+[05-Jul-2025 00:26:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/administracion/includes/navbar.php on line 6
+[05-Jul-2025 00:26:20 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/administracion/includes/navbar.php on line 7
+[05-Jul-2025 00:26:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/administracion/includes/navbar.php on line 7
+[05-Jul-2025 00:26:20 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sanignaciodeloyo/public_html/administracion/dashboard.php on line 9
+[05-Jul-2025 00:33:32 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/administracion/includes/navbar.php on line 6
+[05-Jul-2025 00:33:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/administracion/includes/navbar.php on line 6
+[05-Jul-2025 00:33:32 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/administracion/includes/navbar.php on line 7
+[05-Jul-2025 00:33:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/administracion/includes/navbar.php on line 7
+[05-Jul-2025 00:33:32 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/administracion/includes/navbar.php on line 8
+[05-Jul-2025 00:33:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/administracion/includes/navbar.php on line 8
+[05-Jul-2025 00:33:32 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/administracion/includes/navbar.php on line 9
+[05-Jul-2025 00:33:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/administracion/includes/navbar.php on line 9
+[05-Jul-2025 00:33:47 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/administracion/includes/navbar.php on line 6
+[05-Jul-2025 00:33:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/administracion/includes/navbar.php on line 6
+[05-Jul-2025 00:33:47 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/administracion/includes/navbar.php on line 7
+[05-Jul-2025 00:33:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/administracion/includes/navbar.php on line 7
+[05-Jul-2025 00:33:47 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/administracion/includes/navbar.php on line 8
+[05-Jul-2025 00:33:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/administracion/includes/navbar.php on line 8
+[05-Jul-2025 00:33:47 UTC] PHP Warning:  Undefined variable $usuario in /home/sanignaciodeloyo/public_html/administracion/includes/navbar.php on line 9
+[05-Jul-2025 00:33:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sanignaciodeloyo/public_html/administracion/includes/navbar.php on line 9
+[05-Jul-2025 00:40:20 UTC] PHP Warning:  Undefined array key "id" in /home/sanignaciodeloyo/public_html/administracion/includes/navbar.php on line 6
+[05-Jul-2025 00:59:36 UTC] PHP Warning:  Undefined array key "id" in /home/sanignaciodeloyo/public_html/administracion/includes/navbar.php on line 6
+[05-Jul-2025 02:06:25 UTC] PHP Warning:  Undefined array key "id" in /home/sanignaciodeloyo/public_html/administracion/includes/navbar.php on line 6
+[05-Jul-2025 02:07:05 UTC] PHP Warning:  Undefined array key "id" in /home/sanignaciodeloyo/public_html/administracion/includes/navbar.php on line 6
+[05-Jul-2025 02:07:28 UTC] PHP Warning:  Undefined array key "id" in /home/sanignaciodeloyo/public_html/administracion/includes/navbar.php on line 6
+[05-Jul-2025 02:08:05 UTC] PHP Warning:  Undefined array key "id" in /home/sanignaciodeloyo/public_html/administracion/includes/navbar.php on line 6
+[05-Jul-2025 14:46:09 UTC] PHP Warning:  Undefined array key "id" in /home/sanignaciodeloyo/public_html/administracion/includes/navbar.php on line 6
+[05-Jul-2025 14:46:27 UTC] PHP Warning:  Undefined array key "id" in /home/sanignaciodeloyo/public_html/administracion/includes/navbar.php on line 6
+[05-Jul-2025 14:46:34 UTC] PHP Warning:  Undefined array key "id" in /home/sanignaciodeloyo/public_html/administracion/includes/navbar.php on line 6
+[05-Jul-2025 14:49:12 UTC] PHP Warning:  Undefined array key "id" in /home/sanignaciodeloyo/public_html/administracion/includes/navbar.php on line 6
+[17-Jul-2025 00:29:20 UTC] PHP Warning:  Undefined array key "id" in /home/sanignaciodeloyo/public_html/administracion/includes/navbar.php on line 6
+[17-Jul-2025 00:34:41 UTC] PHP Warning:  Undefined array key "id" in /home/sanignaciodeloyo/public_html/administracion/includes/navbar.php on line 6
