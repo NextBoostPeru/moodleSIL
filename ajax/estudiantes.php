@@ -7,9 +7,11 @@ $offset = ($page - 1) * $perPage;
 $search = isset($_GET['search']) ? trim($_GET['search']) : '';
 
 $baseQuery = "
-  SELECT id, username, firstname, lastname, email, FROM_UNIXTIME(timecreated, '%d/%m/%Y') AS fecha
-  FROM mdl_user
-  WHERE deleted = 0
+  SELECT u.id, u.username, u.firstname, u.lastname, u.email,
+         FROM_UNIXTIME(u.timecreated, '%d/%m/%Y') AS fecha,
+         (SELECT path FROM mdl_user_files f WHERE f.userid = u.id ORDER BY f.timecreated DESC LIMIT 1) AS archivo
+  FROM mdl_user u
+  WHERE u.deleted = 0
 ";
 
 $params = [];
@@ -93,6 +95,10 @@ foreach ($usuarios as $u) {
   echo '<td>' . htmlspecialchars($u['email']) . '</td>';
   echo '<td>' . $u['fecha'] . '</td>';
   echo '<td>';
+  if (!empty($u['archivo'])) {
+    $ruta = htmlspecialchars($u['archivo'], ENT_QUOTES);
+    echo '<button class="btn btn-sm btn-secondary me-1" onclick="abrirModalArchivo(\'' . $ruta . '\')"><i class="bi bi-file-earmark"></i></button>';
+  }
   echo '<button class="btn btn-sm btn-primary me-1" onclick="abrirModalEditar(' . $u['id'] . ')"><i class="bi bi-pencil"></i></button>';
   echo '<button class="btn btn-sm btn-danger" onclick="abrirModalEliminar(' . $u['id'] . ')"><i class="bi bi-trash"></i></button>';
   echo '</td>';
@@ -134,6 +140,22 @@ echo '</tbody></table></div>';
   </div>
 </div>
 
+<!-- Modal Archivo -->
+<div class="modal fade" id="modalArchivo" tabindex="-1">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Archivo del usuario</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+      </div>
+      <div class="modal-body" id="previewArchivo" style="text-align:center;"></div>
+      <div class="modal-footer">
+        <a id="linkDescargar" class="btn btn-primary" href="#" download>Descargar</a>
+      </div>
+    </div>
+  </div>
+</div>
+
 <script>
 function abrirModalEditar(id) {
   fetch('./ajax/editar_usuario_form.php?id=' + id)
@@ -147,6 +169,21 @@ function abrirModalEditar(id) {
 function abrirModalEliminar(id) {
   document.getElementById('idEliminar').value = id;
   new bootstrap.Modal(document.getElementById('modalEliminar')).show();
+}
+
+function abrirModalArchivo(path) {
+  const preview = document.getElementById('previewArchivo');
+  preview.innerHTML = '';
+  const ext = path.split('.').pop().toLowerCase();
+  if (['jpg', 'jpeg', 'png', 'gif'].includes(ext)) {
+    preview.innerHTML = `<img src="${path}" class="img-fluid">`;
+  } else if (ext === 'pdf') {
+    preview.innerHTML = `<embed src="${path}" type="application/pdf" width="100%" height="500px">`;
+  } else {
+    preview.textContent = 'Vista previa no disponible';
+  }
+  document.getElementById('linkDescargar').href = path;
+  new bootstrap.Modal(document.getElementById('modalArchivo')).show();
 }
 
 function confirmarEliminar() {

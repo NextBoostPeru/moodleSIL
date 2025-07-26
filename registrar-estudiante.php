@@ -29,6 +29,27 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
       $userid = $pdo->lastInsertId();
 
+      // Manejar carga de archivo
+      if (!empty($_FILES['archivo']['name']) && $_FILES['archivo']['error'] === UPLOAD_ERR_OK) {
+        $mime = mime_content_type($_FILES['archivo']['tmp_name']);
+        $permitidos = ['image/jpeg', 'image/png', 'image/gif', 'application/pdf'];
+        if (in_array($mime, $permitidos)) {
+          $dirUsuario = __DIR__ . '/uploads/' . $userid;
+          if (!is_dir($dirUsuario)) {
+            mkdir($dirUsuario, 0777, true);
+          }
+          $nombreSeguro = preg_replace('/[^A-Za-z0-9._-]/', '_', basename($_FILES['archivo']['name']));
+          $rutaRelativa = 'uploads/' . $userid . '/' . $nombreSeguro;
+          $destino = __DIR__ . '/' . $rutaRelativa;
+          if (move_uploaded_file($_FILES['archivo']['tmp_name'], $destino)) {
+            // Crear tabla si no existe y guardar ruta
+            $pdo->exec("CREATE TABLE IF NOT EXISTS mdl_user_files (id INT AUTO_INCREMENT PRIMARY KEY, userid INT NOT NULL, path VARCHAR(255) NOT NULL, timecreated INT NOT NULL)");
+            $stmtFile = $pdo->prepare("INSERT INTO mdl_user_files (userid, path, timecreated) VALUES (?, ?, ?)");
+            $stmtFile->execute([$userid, $rutaRelativa, $timecreated]);
+          }
+        }
+      }
+
       // Asignar rol de estudiante
       $roleid = 5;
       $context = $pdo->query("SELECT id FROM mdl_context WHERE contextlevel = 10 LIMIT 1")->fetch();
@@ -61,7 +82,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             <div class="alert alert-danger"><?= $error ?></div>
           <?php endif; ?>
 
-          <form method="POST">
+          <form method="POST" enctype="multipart/form-data">
             <div class="mb-3">
               <label for="username" class="form-label">Nombre de usuario</label>
               <input type="text" class="form-control" name="username" id="username" required>
@@ -98,6 +119,11 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
   </div>
   <div class="form-text">Haz clic para completar el dominio automáticamente.</div>
 </div>
+
+            <div class="mb-3">
+              <label for="archivo" class="form-label">Archivo (imagen o PDF)</label>
+              <input type="file" class="form-control" name="archivo" id="archivo" accept="image/*,application/pdf">
+            </div>
 
 
             <button type="submit" class="btn btn-primary">Registrar</button>
