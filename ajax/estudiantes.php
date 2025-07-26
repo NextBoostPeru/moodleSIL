@@ -7,9 +7,11 @@ $offset = ($page - 1) * $perPage;
 $search = isset($_GET['search']) ? trim($_GET['search']) : '';
 
 $baseQuery = "
-  SELECT id, username, firstname, lastname, email, FROM_UNIXTIME(timecreated, '%d/%m/%Y') AS fecha
-  FROM mdl_user
-  WHERE deleted = 0
+  SELECT u.id, u.username, u.firstname, u.lastname, u.email,
+         FROM_UNIXTIME(u.timecreated, '%d/%m/%Y') AS fecha,
+         (SELECT path FROM mdl_user_files f WHERE f.userid = u.id ORDER BY f.timecreated DESC LIMIT 1) AS archivo
+  FROM mdl_user u
+  WHERE u.deleted = 0
 ";
 
 $params = [];
@@ -93,6 +95,10 @@ foreach ($usuarios as $u) {
   echo '<td>' . htmlspecialchars($u['email']) . '</td>';
   echo '<td>' . $u['fecha'] . '</td>';
   echo '<td>';
+  if (!empty($u['archivo'])) {
+    $ruta = htmlspecialchars($u['archivo'], ENT_QUOTES);
+    echo '<button class="btn btn-sm btn-secondary me-1" onclick="abrirModalArchivo(\'' . $ruta . '\')"><i class="bi bi-file-earmark"></i></button>';
+  }
   echo '<button class="btn btn-sm btn-primary me-1" onclick="abrirModalEditar(' . $u['id'] . ')"><i class="bi bi-pencil"></i></button>';
   echo '<button class="btn btn-sm btn-danger" onclick="abrirModalEliminar(' . $u['id'] . ')"><i class="bi bi-trash"></i></button>';
   echo '</td>';
@@ -101,63 +107,3 @@ foreach ($usuarios as $u) {
 
 echo '</tbody></table></div>';
 
-// Modales
-?>
-
-<!-- Modal Editar -->
-<div class="modal fade" id="modalEditar" tabindex="-1">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title">Editar Usuario</h5>
-        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
-      </div>
-      <div class="modal-body" id="formEditar"></div>
-    </div>
-  </div>
-</div>
-
-<!-- Modal Eliminar -->
-<div class="modal fade" id="modalEliminar" tabindex="-1">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title">Eliminar Usuario</h5>
-        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
-      </div>
-      <div class="modal-body">
-        <p>¿Estás seguro de que deseas eliminar este usuario?</p>
-        <input type="hidden" id="idEliminar">
-        <button class="btn btn-danger" onclick="confirmarEliminar()">Sí, eliminar</button>
-      </div>
-    </div>
-  </div>
-</div>
-
-<script>
-function abrirModalEditar(id) {
-  fetch('./ajax/editar_usuario_form.php?id=' + id)
-    .then(res => res.text())
-    .then(html => {
-      document.getElementById('formEditar').innerHTML = html;
-      new bootstrap.Modal(document.getElementById('modalEditar')).show();
-    });
-}
-
-function abrirModalEliminar(id) {
-  document.getElementById('idEliminar').value = id;
-  new bootstrap.Modal(document.getElementById('modalEliminar')).show();
-}
-
-function confirmarEliminar() {
-  const id = document.getElementById('idEliminar').value;
-  fetch('./ajax/eliminar_usuario.php?id=' + id, { method: 'POST' })
-    .then(res => res.text())
-    .then(resp => {
-      if (resp.trim() === 'ok') {
-        cargarEstudiantes();
-        bootstrap.Modal.getInstance(document.getElementById('modalEliminar')).hide();
-      }
-    });
-}
-</script>
